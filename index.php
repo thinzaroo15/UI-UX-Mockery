@@ -1,1 +1,1 @@
-<?php include_once("eg_gmail.html");?>
+<?php include_once("index.html");?>
